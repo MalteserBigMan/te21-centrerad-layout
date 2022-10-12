@@ -1,0 +1,29 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #384bba;
+    color: #f4e1a3;
+    font-family: 'Work Sans', sans-serif;
+}
+
+a {
+    color: #f4e1a3;
+}
+
+a:hover {
+    color: gray;
+}
+
+li > a {
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.logo {
+    text-decoration: none;
+}
+
+nav {
+    background-color: #384bba;
+    color: #f4e1a3;
+}

@@ -31,7 +31,7 @@ grid-area: stack;
 .hero > h1 {
     place-self: center;
     font-size: 4rem;
-    color: white;
+    color: #f4e1a3;
 }
 
 footer {
